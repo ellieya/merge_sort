@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\khleys\source\repos\mergesort\mergesort\source.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\khleys\source\repos\mergesort\mergesort\source.cpp(18): warning C4101: 'j': unreferenced local variable
+c:\users\khleys\source\repos\mergesort\mergesort\source.cpp(18): warning C4101: 'i': unreferenced local variable
+  mergeSort.vcxproj -> C:\Users\Khleys\source\repos\mergeSort\Debug\mergeSort.exe
