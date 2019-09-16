@@ -1,3 +1,8 @@
+/*
+Ellie Chen
+CSC 382 - HW #1
+*/
+
 #include <iostream>
 #include <array>
 #include <ctime>
